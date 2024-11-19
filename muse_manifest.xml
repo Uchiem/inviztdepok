@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="inviztdepok.com" resolutions="1x" timestamp="1732003254838">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="248989791" ref="voucher-medium:voucher-deluxe:001:index:voucher-small:voucher-large"/>
+    <file name="voucher-medium.css" crc="452965708" ref="voucher-medium"/>
+    <file name="voucher-deluxe.css" crc="452965708" ref="voucher-deluxe"/>
+    <file name="001.css" crc="3937624098" ref="001"/>
+    <file name="index.css" crc="452965708" ref="index"/>
+    <file name="voucher-small.css" crc="452965708" ref="voucher-small"/>
+    <file name="voucher-large.css" crc="452965708" ref="voucher-large"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:voucher-small:voucher-medium:voucher-large:voucher-deluxe:001"/>
+    <file name="museutils.js" crc="340535759" ref="index:voucher-small:voucher-medium:voucher-large:voucher-deluxe:001"/>
+    <file name="whatinput.js" crc="86476730" ref="index:voucher-small:voucher-medium:voucher-large:voucher-deluxe:001"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:voucher-small:voucher-medium:voucher-large:voucher-deluxe:001"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:voucher-small:voucher-medium:voucher-large:voucher-deluxe:001"/>
+    <file name="require.js" crc="7928878" ref="index:voucher-small:voucher-medium:voucher-large:voucher-deluxe:001"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-1.jpg" crc="4249747632" seo="true" ref="index:voucher-small:voucher-medium:voucher-large:voucher-deluxe:001">
+      <caption webpage="index" alt=""/>
+      <caption webpage="voucher-deluxe" alt=""/>
+      <caption webpage="voucher-medium" alt=""/>
+      <caption webpage="001" alt=""/>
+      <caption webpage="voucher-large" alt=""/>
+      <caption webpage="voucher-small" alt=""/>
+    </file>
+    <file name="7812078_3725250.jpg" crc="3837335937" seo="true" ref="001">
+      <caption webpage="001" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4005458571" seo="true" mt="1732002117182" redirect="true"/>
+  <file name="voucher-small.html" crc="3924845368" seo="true" mt="1732002163585" redirect="true"/>
+  <file name="voucher-medium.html" crc="4208994704" seo="true" mt="1732002178101" redirect="true"/>
+  <file name="voucher-large.html" crc="268392086" seo="true" mt="1732002195566" redirect="true"/>
+  <file name="voucher-deluxe.html" crc="96398667" seo="true" mt="1732002209420" redirect="true"/>
+  <file name="001.html" crc="3809599730" seo="true" mt="1732002267390" redirect="true"/>
+</manifest>
